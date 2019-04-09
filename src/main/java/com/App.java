@@ -1,4 +1,4 @@
-package com.ESEO_API_REST;
+package com;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
